@@ -28,27 +28,27 @@ Other                   271
     # What percentage of people without advanced education make more than 50K?
 
     # with and without `Bachelors`, `Masters`, or `Doctorate`
-    higher_education = 
-    lower_education = None
+    higher_education = 7491
+    lower_education =25070
 
     # percentage with salary >50K
     higher_education_rich = 46.53
-    lower_education_rich = None
+    lower_education_rich = 17.37
 
     # What is the minimum number of hours a person works per week (hours-per-week feature)?
-    min_work_hours = None
+    min_work_hours = 1
 
     # What percentage of the people who work the minimum number of hours per week have a salary of >50K?
-    num_min_workers = None
+    num_min_workers = 10.00
 
-    rich_percentage = None
+    rich_percentage =10.00
 
     # What country has the highest percentage of people that earn >50K?
-    highest_earning_country = None
-    highest_earning_country_percentage = None
+    highest_earning_country = United-States
+    highest_earning_country_percentage = 24.08
 
     # Identify the most popular occupation for those who earn >50K in India.
-    top_IN_occupation = None
+    top_IN_occupation = Prof-specialty
 
     # DO NOT MODIFY BELOW THIS LINE
 
